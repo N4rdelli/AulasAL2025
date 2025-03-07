@@ -1,8 +1,8 @@
 Algoritmo "Compras"
 // Disciplina   : Lógica de Programação e Algoritmos
 // Professor   : MSc. Tiago Antonio da Silva 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Descrição   : Esse programa lê o valor de um produto e calcula o desconto com base na sua forma de pagamento.
+// Autor(a)    : Anelize Nardelli
 // Data atual  : 07/03/2025
 Var
 valorOriginal, desconto, valorFinal : real
