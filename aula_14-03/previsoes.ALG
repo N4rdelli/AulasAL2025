@@ -1,7 +1,7 @@
 Algoritmo "Previsoes"
 // Disciplina   : Lógica de Programação e Algoritmos
 // Professor   : MSc. Tiago Antonio da Silva 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Descrição   : Esse programa oferece previsões pré-definidas para o usuário a partir da escolha de um número
 // Autor(a)    : Anelize Nardelli
 // Data atual  : 14/03/2025
 Var
