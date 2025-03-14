@@ -31,6 +31,6 @@ Escolha destino
              Escreval("Interior? Que delícia! Aproveite a tranquilidade!")
         outrocaso
              Escreval("")
-             Escreval("O número digitado é inválido. Digite um número de 1 a 4.")
+             Escreval("O número digitado é inválido. Volte ao começo e digite um número de 1 a 4.")
 Fimescolha
 Fimalgoritmo
